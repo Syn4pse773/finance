@@ -33,8 +33,8 @@ To build and run this project, you need a Linux environment (x86-64) with the fo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/finance-manager.git
-   cd finance-manager
+   git clone https://github.com/Syn4pse773/finance.git
+   cd finance
    ```
 
 2. Compile the Assembly encryption engine:
