@@ -15,8 +15,6 @@ A fast, lightweight, and secure console-based personal finance manager written i
 .
 ├── main.c              # Core application logic and Terminal User Interface (TUI)
 ├── xor.asm             # x86-64 Assembly implementation of the encryption subroutine
-├── tests/              # Security validations and unit tests
-│   └── test_finance.c  # Test suite (Symmetry, Boundary, Zero-size, Padding tests)
 ├── finance.enc         # Encrypted local database (Generated at runtime)
 └── README.md           # Project documentation
 ```
